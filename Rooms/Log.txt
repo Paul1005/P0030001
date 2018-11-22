@@ -5,11 +5,11 @@
          "TIME_LABEL" : "String=ULTTC=1,2",
          "TIME_DISPLAY" : "String=strip",
          "OUTPUT_CHASE_LTC" : "int=0",
-         "NAME" : "cookie=E0030018",
+         "NAME" : "cookie=E00301EL",
          "IS_SOURCE_VIEWER" : "int=1",
-         "GROUPID" : "String=E0030018",
-         "CurrentTime" : "double=2.36670000",
-         "000000012C050C7A800008F" : "String=-1.000000000000 -1.000000000000 1"
+         "GROUPID" : "String=000000012C0E73EC1C",
+         "CurrentTime" : "double=0.06666667",
+         "000000012C0E73E78000010" : "String=0.000000000000 0.000000000000 1"
       },
       "MultiSourceContentPanel" : {
          "View" : "int=1",
@@ -19,11 +19,12 @@
          "ShowNavigator" : "bool=true",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
-         "handle" : "String=GZ2Z0000",
-         "E003007L" : "String=0000000200000112112",
-         "E003002M" : "String=000000020000005F5F",
-         "E003001H" : "String=000000020000003636",
-         "BinHandle" : "String=GZ2Z0000|INVALID"
+         "handle" : "String=GZ0Z0074",
+         "E00301EL" : "String=000000012C0E73EC1C",
+         "E00300BZ" : "String=000000012C0E583143",
+         "E003002M" : "String=000000012C0E58314A",
+         "E003001H" : "String=000000012C0E58314F",
+         "BinHandle" : "String=GZ0Z0074|INVALID"
       }
    },
    "Splits" : {

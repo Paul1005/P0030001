@@ -1,7 +1,7 @@
 {
 Tab:int 2
-SourceViewID E0030018
-Source {"id" : "E0030018","t" : 0,"sel" : {}}
+SourceViewID 000000012C0E77E21
+Source {"id" : "E00301HZ"}
 RecordViewID 000000012C050CA173
-Record {"id" : "E003001H","t" : 69.6333,"sel" : {}}
+Record {"id" : "E003001H","t" : 11.6667,"sel" : {}}
 }
