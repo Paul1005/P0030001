@@ -1,0 +1,30 @@
+{
+   "Components" : {
+      "MultiSourceContentPanel" : {
+         "View" : "int=1",
+         "TileSize" : "String=ISPHugeThumb",
+         "SplitterPos" : "int=88",
+         "size" : "int=0",
+         "ShowNavigator" : "bool=true",
+         "ReelGallery" : "int=0",
+         "LastTab" : "String=Project Contents",
+         "handle" : "String=GZ0Z0074",
+         "E00300BZ" : "String=000000012C0E583143",
+         "E003002M" : "String=000000012C0E58314A",
+         "E003001H" : "String=000000012C0E58314F",
+         "BinHandle" : "String=GZ0Z0074|INVALID"
+      },
+      "SourceRecordViewerPanel" : {
+         "SourceVisible" : "bool=false"
+      }
+   },
+   "Splits" : {
+      "Value" : 0.3766,
+      "Top" : {
+         "Value" : 0.5205
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPHugeThumb"
+   }
+}
