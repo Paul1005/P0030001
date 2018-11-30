@@ -3,5 +3,5 @@ Tab:int 2
 SourceViewID E00303KT
 Source {"id" : "E00303KT","t" : 33.9,"sel" : {}}
 RecordViewID 000000012C050CA173
-Record {"id" : "E003001H","t" : 61.1333,"sel" : {}}
+Record {"id" : "E003001H","t" : 16,"sel" : {}}
 }
