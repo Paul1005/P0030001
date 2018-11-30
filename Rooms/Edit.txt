@@ -6,6 +6,7 @@
          "SplitterPos" : "int=88",
          "size" : "int=0",
          "ShowNavigator" : "bool=true",
+         "ScrollPos0" : "String=GZ1Z0000=0.877989",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
          "handle" : "String=GZ1Z0000",
@@ -61,7 +62,7 @@
       }
    },
    "Splits" : {
-      "Value" : 0.4263,
+      "Value" : 0.4512,
       "Top" : {
          "Value" : 0.3979
       }
